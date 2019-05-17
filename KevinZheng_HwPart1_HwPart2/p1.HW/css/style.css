@@ -1,0 +1,16 @@
+rect {
+display: inline-block; 
+width: 35px;
+margin-right: 10px;
+background-color: gray;
+}
+
+
+
+svg {
+display: inline;
+width: 1px;
+}
+
+
+
