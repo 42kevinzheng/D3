@@ -1,2 +1,2 @@
 # D3
-A collection of homework and assignments done with D3
+A collection of excersises done with the JavaScript library called D3.
